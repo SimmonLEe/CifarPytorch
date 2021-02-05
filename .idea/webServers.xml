@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a8867c5-9aa5-417e-a267-5ee1594cd897" name="MistGpu">
+        <fileTransfer accessType="SFTP" host="haroldharold.f3322.net" port="27000" sshConfigId="eb919bab-7b3e-4127-9982-8711514bd413" sshConfig="mist@haroldharold.f3322.net:27000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
