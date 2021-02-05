@@ -1,0 +1,2 @@
+# CifarPytorch
+通过Inception来实现cifar10, 基本上没有调参,除了数据增强也没有使用别的trick, 仅仅只是作为一个学习pytorch的练手项目
